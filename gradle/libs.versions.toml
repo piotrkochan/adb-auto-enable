@@ -1,5 +1,5 @@
 [versions]
-agp = "9.3.1"
+agp = "9.3.2"
 conscrypt = "2.6.1"
 nanohttpd = "2.3.1"
 libadb = "1.0.1"
