@@ -1,6 +1,6 @@
 [versions]
 agp = "9.3.1"
-conscrypt = "2.6.1"
+conscrypt = "2.7.0"
 nanohttpd = "2.3.1"
 libadb = "1.0.1"
 bouncycastle = "1.70"
